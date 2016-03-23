@@ -1,0 +1,28 @@
+{
+  "name": "node_serial",
+  "version": "1.0.0",
+  "description": "serial reader for arduino",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goofyahead/nodeSerialReader.git"
+  },
+  "keywords": [
+    "nodejs",
+    "arduino",
+    "serial",
+    "iot"
+  ],
+  "author": "goofyahead@gmail.com Alejandro Vidal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/goofyahead/nodeSerialReader/issues"
+  },
+  "homepage": "https://github.com/goofyahead/nodeSerialReader#readme",
+  "dependencies": {
+    "serialport": "^2.0.6"
+  }
+}
