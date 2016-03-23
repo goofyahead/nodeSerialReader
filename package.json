@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/goofyahead/nodeSerialReader#readme",
   "dependencies": {
+    "mongodb": "^2.1.11",
     "serialport": "^2.0.6"
   }
 }
